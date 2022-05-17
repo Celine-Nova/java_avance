@@ -31,3 +31,9 @@ Ecrivez un programme Java qui permet de résoudre une équation du 2nd degré de
 L'utilisateur devra fournir a,b,c à partir du clavier, ensuite le programme lui donnera la solution
 Principe du fonctionnement d'une équation du 2nd degré:
 https://www.maths-et-tiques.fr/telech/Secondegre2ESL.pdf
+
+**TP 6**
+Ecrire un programme qui permet à l’utilisateur de saisir un entier entre 1 et 12 et qui affiche le nom du mois correspondant.
+Ex:
+Mois : 4
+Résult : Avril
