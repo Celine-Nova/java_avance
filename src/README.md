@@ -25,3 +25,9 @@ Entrez un nombre entier: -4
 Le nombre est négatif et pair
 Entrez un nombre entier: 0
 Le nombre est zéro (et il est pair)
+
+**TP 5**
+Ecrivez un programme Java qui permet de résoudre une équation du 2nd degré de la forme ax2+bx+c = 0.
+L'utilisateur devra fournir a,b,c à partir du clavier, ensuite le programme lui donnera la solution
+Principe du fonctionnement d'une équation du 2nd degré:
+https://www.maths-et-tiques.fr/telech/Secondegre2ESL.pdf
