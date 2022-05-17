@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args)
     {
         // TP1 calcul surface
-        TP1.surface();
+        TP2.presentation();
 
     }
 }
