@@ -20,6 +20,7 @@ public class TP5 {
         // Equation du 2nd degré:
         //ax 2+ bx + c = 0 === b² − 4 a c
         String equation = "(ax 2+ bx + c = 0)";
+        //La méthode Math.pow() renvoie un nombre à une certaine puissance, c'est-à-dire base^exposant
         double discriminant =  Math.pow(b,2 - 4 * a * c);
       //  double delta= racineCarre - 4 * a * c ;
         System.out.println("Le resultat de l'équation : " +  equation + " est : " + discriminant);
@@ -31,6 +32,7 @@ public class TP5 {
             System.out.println("x = b / 2 * a" + x);
         }else {
             System.out.println("L'équation a deux solutions distinctes");
+            // La méthode Math.sqrt() permet de calculer la racine carré d'une valeur passée en paramètre
             double x1 = -b - Math.sqrt(discriminant) / 2 * a;
             System.out.println("Solution 1 : (x1=-b-(b²−4ac)/2*a) : " + x1);
             double x2 = -b + Math.sqrt(discriminant) / 2 * a;
