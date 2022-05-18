@@ -26,7 +26,7 @@ public class TP7 {
         System.out.println("Définissez votre mot de passe : ");
         password = scanner.next();
 
-        while (compteur < 1 ) {
+        while (compteur < 5 ) {
             System.out.println("Veuillez entrer votre email : ");
             emailCheck = scanner.next();
             System.out.println("Veuillez entrer votre mot de passe : ");
